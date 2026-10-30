@@ -1,0 +1,65 @@
+# Chapter 6 — The Entropy Method
+
+## Exercise 6.1
+
+{{< include ../solutions/06-1.md >}}
+
+## Exercise 6.2
+
+{{< include ../solutions/06-2.md >}}
+
+## Exercise 6.3
+
+{{< include ../solutions/06-3.md >}}
+
+## Exercise 6.4
+
+{{< include ../solutions/06-4.md >}}
+
+## Exercise 6.5
+
+{{< include ../solutions/06-5.md >}}
+
+## Exercise 6.6
+
+{{< include ../solutions/06-6.md >}}
+
+## Exercise 6.7
+
+{{< include ../solutions/06-7.md >}}
+
+## Exercise 6.8
+
+{{< include ../solutions/06-8.md >}}
+
+## Exercise 6.9
+
+{{< include ../solutions/06-9.md >}}
+
+## Exercise 6.10
+
+{{< include ../solutions/06-10.md >}}
+
+## Exercise 6.11
+
+{{< include ../solutions/06-11.md >}}
+
+## Exercise 6.12
+
+{{< include ../solutions/06-12.md >}}
+
+## Exercise 6.13
+
+{{< include ../solutions/06-13.md >}}
+
+## Exercise 6.14
+
+{{< include ../solutions/06-14.md >}}
+
+## Exercise 6.15
+
+{{< include ../solutions/06-15.md >}}
+
+## Exercise 6.16
+
+{{< include ../solutions/06-16.md >}}

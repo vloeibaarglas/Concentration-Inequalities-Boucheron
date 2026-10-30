@@ -1,0 +1,49 @@
+# Chapter 9 — Influences and Threshold Phenomena
+
+## Exercise 9.1
+
+{{< include ../solutions/09-1.md >}}
+
+## Exercise 9.2
+
+{{< include ../solutions/09-2.md >}}
+
+## Exercise 9.3
+
+{{< include ../solutions/09-3.md >}}
+
+## Exercise 9.4
+
+{{< include ../solutions/09-4.md >}}
+
+## Exercise 9.5
+
+{{< include ../solutions/09-5.md >}}
+
+## Exercise 9.6
+
+{{< include ../solutions/09-6.md >}}
+
+## Exercise 9.7
+
+{{< include ../solutions/09-7.md >}}
+
+## Exercise 9.8
+
+{{< include ../solutions/09-8.md >}}
+
+## Exercise 9.9
+
+{{< include ../solutions/09-9.md >}}
+
+## Exercise 9.10
+
+{{< include ../solutions/09-10.md >}}
+
+## Exercise 9.11
+
+{{< include ../solutions/09-11.md >}}
+
+## Exercise 9.12
+
+{{< include ../solutions/09-12.md >}}

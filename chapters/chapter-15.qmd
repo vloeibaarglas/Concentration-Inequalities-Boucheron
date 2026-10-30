@@ -1,0 +1,41 @@
+# Chapter 15 — Moment Inequalities
+
+## Exercise 15.1
+
+{{< include ../solutions/15-1.md >}}
+
+## Exercise 15.2
+
+{{< include ../solutions/15-2.md >}}
+
+## Exercise 15.3
+
+{{< include ../solutions/15-3.md >}}
+
+## Exercise 15.4
+
+{{< include ../solutions/15-4.md >}}
+
+## Exercise 15.5
+
+{{< include ../solutions/15-5.md >}}
+
+## Exercise 15.6
+
+{{< include ../solutions/15-6.md >}}
+
+## Exercise 15.7
+
+{{< include ../solutions/15-7.md >}}
+
+## Exercise 15.8
+
+{{< include ../solutions/15-8.md >}}
+
+## Exercise 15.9
+
+{{< include ../solutions/15-9.md >}}
+
+## Exercise 15.10
+
+{{< include ../solutions/15-10.md >}}

@@ -1,0 +1,69 @@
+# Chapter 7 — Concentration and Isoperimetry
+
+## Exercise 7.1
+
+{{< include ../solutions/07-1.md >}}
+
+## Exercise 7.2
+
+{{< include ../solutions/07-2.md >}}
+
+## Exercise 7.3
+
+{{< include ../solutions/07-3.md >}}
+
+## Exercise 7.4
+
+{{< include ../solutions/07-4.md >}}
+
+## Exercise 7.5
+
+{{< include ../solutions/07-5.md >}}
+
+## Exercise 7.6
+
+{{< include ../solutions/07-6.md >}}
+
+## Exercise 7.7
+
+{{< include ../solutions/07-7.md >}}
+
+## Exercise 7.8
+
+{{< include ../solutions/07-8.md >}}
+
+## Exercise 7.9
+
+{{< include ../solutions/07-9.md >}}
+
+## Exercise 7.10
+
+{{< include ../solutions/07-10.md >}}
+
+## Exercise 7.11
+
+{{< include ../solutions/07-11.md >}}
+
+## Exercise 7.12
+
+{{< include ../solutions/07-12.md >}}
+
+## Exercise 7.13
+
+{{< include ../solutions/07-13.md >}}
+
+## Exercise 7.14
+
+{{< include ../solutions/07-14.md >}}
+
+## Exercise 7.15
+
+{{< include ../solutions/07-15.md >}}
+
+## Exercise 7.16
+
+{{< include ../solutions/07-16.md >}}
+
+## Exercise 7.17
+
+{{< include ../solutions/07-17.md >}}

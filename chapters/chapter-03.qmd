@@ -1,0 +1,97 @@
+# Chapter 3 — Bounding the Variance
+
+## Exercise 3.1
+
+{{< include ../solutions/03-1.md >}}
+
+## Exercise 3.2
+
+{{< include ../solutions/03-2.md >}}
+
+## Exercise 3.3
+
+{{< include ../solutions/03-3.md >}}
+
+## Exercise 3.4
+
+{{< include ../solutions/03-4.md >}}
+
+## Exercise 3.5
+
+{{< include ../solutions/03-5.md >}}
+
+## Exercise 3.6
+
+{{< include ../solutions/03-6.md >}}
+
+## Exercise 3.7
+
+{{< include ../solutions/03-7.md >}}
+
+## Exercise 3.8
+
+{{< include ../solutions/03-8.md >}}
+
+## Exercise 3.9
+
+{{< include ../solutions/03-9.md >}}
+
+## Exercise 3.10
+
+{{< include ../solutions/03-10.md >}}
+
+## Exercise 3.11
+
+{{< include ../solutions/03-11.md >}}
+
+## Exercise 3.12
+
+{{< include ../solutions/03-12.md >}}
+
+## Exercise 3.13
+
+{{< include ../solutions/03-13.md >}}
+
+## Exercise 3.14
+
+{{< include ../solutions/03-14.md >}}
+
+## Exercise 3.15
+
+{{< include ../solutions/03-15.md >}}
+
+## Exercise 3.16
+
+{{< include ../solutions/03-16.md >}}
+
+## Exercise 3.17
+
+{{< include ../solutions/03-17.md >}}
+
+## Exercise 3.18
+
+{{< include ../solutions/03-18.md >}}
+
+## Exercise 3.19
+
+{{< include ../solutions/03-19.md >}}
+
+## Exercise 3.20
+
+{{< include ../solutions/03-20.md >}}
+
+## Exercise 3.21
+
+{{< include ../solutions/03-21.md >}}
+
+## Exercise 3.22
+
+{{< include ../solutions/03-22.md >}}
+
+## Exercise 3.23
+
+{{< include ../solutions/03-23.md >}}
+
+## Exercise 3.24
+
+{{< include ../solutions/03-24.md >}}

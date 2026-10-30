@@ -1,0 +1,38 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Worked Solutions to Concentration Inequalities (Boucheron, Lugosi, Massart)"
+  subtitle: "Solutions only — no textbook problem statements reproduced"
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - chapters/chapter-02.qmd
+    - chapters/chapter-03.qmd
+    - chapters/chapter-04.qmd
+    - chapters/chapter-05.qmd
+    - chapters/chapter-06.qmd
+    - chapters/chapter-07.qmd
+    - chapters/chapter-08.qmd
+    - chapters/chapter-09.qmd
+    - chapters/chapter-10.qmd
+    - chapters/chapter-11.qmd
+    - chapters/chapter-12.qmd
+    - chapters/chapter-13.qmd
+    - chapters/chapter-14.qmd
+    - chapters/chapter-15.qmd
+    - chapters/addendum.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    toc-title: Contents
+    number-sections: false
+    html-math-method: katex
+    max-width: 1820px
+
+crossref:
+  chapters: true

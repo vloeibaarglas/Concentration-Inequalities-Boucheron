@@ -1,0 +1,49 @@
+# Chapter 10 — Isoperimetry on the Hypercube and Gaussian Spaces
+
+## Exercise 10.1
+
+{{< include ../solutions/10-1.md >}}
+
+## Exercise 10.2
+
+{{< include ../solutions/10-2.md >}}
+
+## Exercise 10.3
+
+{{< include ../solutions/10-3.md >}}
+
+## Exercise 10.4
+
+{{< include ../solutions/10-4.md >}}
+
+## Exercise 10.5
+
+{{< include ../solutions/10-5.md >}}
+
+## Exercise 10.6
+
+{{< include ../solutions/10-6.md >}}
+
+## Exercise 10.7
+
+{{< include ../solutions/10-7.md >}}
+
+## Exercise 10.8
+
+{{< include ../solutions/10-8.md >}}
+
+## Exercise 10.9
+
+{{< include ../solutions/10-9.md >}}
+
+## Exercise 10.10
+
+{{< include ../solutions/10-10.md >}}
+
+## Exercise 10.11
+
+{{< include ../solutions/10-11.md >}}
+
+## Exercise 10.12
+
+{{< include ../solutions/10-12.md >}}

@@ -1,0 +1,149 @@
+# Chapter 5 — Logarithmic Sobolev Inequalities
+
+## Exercise 5.1
+
+{{< include ../solutions/05-1.md >}}
+
+## Exercise 5.2
+
+{{< include ../solutions/05-2.md >}}
+
+## Exercise 5.3
+
+{{< include ../solutions/05-3.md >}}
+
+## Exercise 5.4
+
+{{< include ../solutions/05-4.md >}}
+
+## Exercise 5.5
+
+{{< include ../solutions/05-5.md >}}
+
+## Exercise 5.6
+
+{{< include ../solutions/05-6.md >}}
+
+## Exercise 5.7
+
+{{< include ../solutions/05-7.md >}}
+
+## Exercise 5.8
+
+{{< include ../solutions/05-8.md >}}
+
+## Exercise 5.9
+
+{{< include ../solutions/05-9.md >}}
+
+## Exercise 5.10
+
+{{< include ../solutions/05-10.md >}}
+
+## Exercise 5.11
+
+{{< include ../solutions/05-11.md >}}
+
+## Exercise 5.12
+
+{{< include ../solutions/05-12.md >}}
+
+## Exercise 5.13
+
+{{< include ../solutions/05-13.md >}}
+
+## Exercise 5.14
+
+{{< include ../solutions/05-14.md >}}
+
+## Exercise 5.15
+
+{{< include ../solutions/05-15.md >}}
+
+## Exercise 5.16
+
+{{< include ../solutions/05-16.md >}}
+
+## Exercise 5.17
+
+{{< include ../solutions/05-17.md >}}
+
+## Exercise 5.18
+
+{{< include ../solutions/05-18.md >}}
+
+## Exercise 5.19
+
+{{< include ../solutions/05-19.md >}}
+
+## Exercise 5.20
+
+{{< include ../solutions/05-20.md >}}
+
+## Exercise 5.21
+
+{{< include ../solutions/05-21.md >}}
+
+## Exercise 5.22
+
+{{< include ../solutions/05-22.md >}}
+
+## Exercise 5.23
+
+{{< include ../solutions/05-23.md >}}
+
+## Exercise 5.24
+
+{{< include ../solutions/05-24.md >}}
+
+## Exercise 5.25
+
+{{< include ../solutions/05-25.md >}}
+
+## Exercise 5.26
+
+{{< include ../solutions/05-26.md >}}
+
+## Exercise 5.27
+
+{{< include ../solutions/05-27.md >}}
+
+## Exercise 5.28
+
+{{< include ../solutions/05-28.md >}}
+
+## Exercise 5.29
+
+{{< include ../solutions/05-29.md >}}
+
+## Exercise 5.30
+
+{{< include ../solutions/05-30.md >}}
+
+## Exercise 5.31
+
+{{< include ../solutions/05-31.md >}}
+
+## Exercise 5.32
+
+{{< include ../solutions/05-32.md >}}
+
+## Exercise 5.33
+
+{{< include ../solutions/05-33.md >}}
+
+## Exercise 5.34
+
+{{< include ../solutions/05-34.md >}}
+
+## Exercise 5.35
+
+{{< include ../solutions/05-35.md >}}
+
+## Exercise 5.36
+
+{{< include ../solutions/05-36.md >}}
+
+## Exercise 5.37
+
+{{< include ../solutions/05-37.md >}}

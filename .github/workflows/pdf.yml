@@ -1,0 +1,52 @@
+name: Build solutions and errata PDFs
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'concentration-inequalities-solutions.pdf'
+      - 'concentration-inequalities-errata.pdf'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Quarto + TinyTeX
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Add LaTeX packages
+        run: |
+          echo "$HOME/.TinyTeX/bin/x86_64-linux" >> "$GITHUB_PATH"
+          export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
+          tlmgr update --self || true
+          tlmgr install newunicodechar
+
+      - name: Build PDFs
+        env:
+          QUARTO: quarto
+        run: |
+          ./build.sh solutions
+          ./build.sh errata
+          ls -la concentration-inequalities-solutions.pdf concentration-inequalities-errata.pdf
+
+      - name: Commit PDFs
+        run: |
+          git config user.name "vloeibaarglas"
+          git config user.email "vloeibaarglas@users.noreply.github.com"
+          git add concentration-inequalities-solutions.pdf concentration-inequalities-errata.pdf
+          git status --short
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "Rebuild solutions and errata PDFs [skip ci]"
+            git push
+          fi

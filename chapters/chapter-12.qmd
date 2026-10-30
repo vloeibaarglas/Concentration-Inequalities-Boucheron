@@ -1,0 +1,65 @@
+# Chapter 12 — Suprema of Empirical Processes: Exponential Inequalities
+
+## Exercise 12.1
+
+{{< include ../solutions/12-1.md >}}
+
+## Exercise 12.2
+
+{{< include ../solutions/12-2.md >}}
+
+## Exercise 12.3
+
+{{< include ../solutions/12-3.md >}}
+
+## Exercise 12.4
+
+{{< include ../solutions/12-4.md >}}
+
+## Exercise 12.5
+
+{{< include ../solutions/12-5.md >}}
+
+## Exercise 12.6
+
+{{< include ../solutions/12-6.md >}}
+
+## Exercise 12.7
+
+{{< include ../solutions/12-7.md >}}
+
+## Exercise 12.8
+
+{{< include ../solutions/12-8.md >}}
+
+## Exercise 12.9
+
+{{< include ../solutions/12-9.md >}}
+
+## Exercise 12.10
+
+{{< include ../solutions/12-10.md >}}
+
+## Exercise 12.11
+
+{{< include ../solutions/12-11.md >}}
+
+## Exercise 12.12
+
+{{< include ../solutions/12-12.md >}}
+
+## Exercise 12.13
+
+{{< include ../solutions/12-13.md >}}
+
+## Exercise 12.14
+
+{{< include ../solutions/12-14.md >}}
+
+## Exercise 12.15
+
+{{< include ../solutions/12-15.md >}}
+
+## Exercise 12.16
+
+{{< include ../solutions/12-16.md >}}

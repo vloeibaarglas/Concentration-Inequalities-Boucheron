@@ -1,0 +1,81 @@
+# Chapter 11 — The Variance of Suprema of Empirical Processes
+
+## Exercise 11.1
+
+{{< include ../solutions/11-1.md >}}
+
+## Exercise 11.2
+
+{{< include ../solutions/11-2.md >}}
+
+## Exercise 11.3
+
+{{< include ../solutions/11-3.md >}}
+
+## Exercise 11.4
+
+{{< include ../solutions/11-4.md >}}
+
+## Exercise 11.5
+
+{{< include ../solutions/11-5.md >}}
+
+## Exercise 11.6
+
+{{< include ../solutions/11-6.md >}}
+
+## Exercise 11.7
+
+{{< include ../solutions/11-7.md >}}
+
+## Exercise 11.8
+
+{{< include ../solutions/11-8.md >}}
+
+## Exercise 11.9
+
+{{< include ../solutions/11-9.md >}}
+
+## Exercise 11.10
+
+{{< include ../solutions/11-10.md >}}
+
+## Exercise 11.11
+
+{{< include ../solutions/11-11.md >}}
+
+## Exercise 11.12
+
+{{< include ../solutions/11-12.md >}}
+
+## Exercise 11.13
+
+{{< include ../solutions/11-13.md >}}
+
+## Exercise 11.14
+
+{{< include ../solutions/11-14.md >}}
+
+## Exercise 11.15
+
+{{< include ../solutions/11-15.md >}}
+
+## Exercise 11.16
+
+{{< include ../solutions/11-16.md >}}
+
+## Exercise 11.17
+
+{{< include ../solutions/11-17.md >}}
+
+## Exercise 11.18
+
+{{< include ../solutions/11-18.md >}}
+
+## Exercise 11.19
+
+{{< include ../solutions/11-19.md >}}
+
+## Exercise 11.20
+
+{{< include ../solutions/11-20.md >}}

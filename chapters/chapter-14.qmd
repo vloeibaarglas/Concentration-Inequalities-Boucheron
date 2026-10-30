@@ -1,0 +1,29 @@
+# Chapter 14 — $\Phi$-Entropies
+
+## Exercise 14.1
+
+{{< include ../solutions/14-1.md >}}
+
+## Exercise 14.2
+
+{{< include ../solutions/14-2.md >}}
+
+## Exercise 14.3
+
+{{< include ../solutions/14-3.md >}}
+
+## Exercise 14.4
+
+{{< include ../solutions/14-4.md >}}
+
+## Exercise 14.5
+
+{{< include ../solutions/14-5.md >}}
+
+## Exercise 14.6
+
+{{< include ../solutions/14-6.md >}}
+
+## Exercise 14.7
+
+{{< include ../solutions/14-7.md >}}
